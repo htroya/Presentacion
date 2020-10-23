@@ -63,7 +63,7 @@ El código incrustado es:
         <script type="text/javascript">
             window.onload = function() {
                 document.getElementById('alertar').onclick = function () {
-                    alert('Se incrusta un boton dentro de la gina y se llama a una funcion usando javascript');
+                    alert('Se incrusta un boton dentro de la pagina y se llama a una funcion usando javascript');
                 }
             }
         </script>
