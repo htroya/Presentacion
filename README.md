@@ -90,7 +90,7 @@ A continuación se muestran links para distintas páginas web.
 
 2.La pagina web (1) de ejemplo esta almacenada en el mismo repositorio y se llama pagina_html esta contiene etiquetas básicas del html
 
-3.La página web(2) de ejemplo usa una hoja de estilos que esta almacenada en el mismo repositorio , en esta página web se incluyeron tanto imágenes como video así como etiquetas básicas del html, esta página invoca a su vez a otras dos páginas web mediante la etiqueta <a href
+3.La página web(2) de ejemplo usa una hoja de estilos que esta almacenada en el mismo repositorio , en esta página web se incluyeron tanto imágenes como video así como etiquetas básicas del html, esta página invoca a su vez a otras dos páginas web mediante la etiqueta <a href, en estas páginas web incrustó pequeños códigos en javascript para realizar el ejercicio, el primero , el segundo muestra que día es hoy 
 
 4.La página web(3) de ejemplo invoca un sitio externo, este sitio esta creado con oracle apex por lo que usa base de datos oracle 19c, y está alojado en la nube de Oracle, cabe destacar que este servicio de oracle permite mantener sitios transaccionales de manera gratuita.
 
