@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p id="demo"></p>
+
+<script>
+var dia;
+switch (new Date().getDay()) {
+  case 1:
+    dia = "Lunes";
+    break;
+  case 2:
+    dia = "Martes";
+    break;
+  case 3:
+    dia = "Miercoles";
+    break;
+  case 4:
+    dia = "Jueves";
+    break;
+  case 5:
+    dia = "Viernes";
+    break;
+  case 6:
+    dia = "Sabado";
+    break;
+  case  0:
+    dia = "Domingo";
+}
+document.getElementById("demo").innerHTML = "Hoy es " + dia;
+</script>
+
+</body>
+</html>
