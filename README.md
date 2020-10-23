@@ -42,14 +42,14 @@ Aqui un ejemplo incrustando codigo HTML:
         <script type="text/javascript">
             window.onload = function() {
                 document.getElementById('alertar').onclick = function () {
-                    alert('hola mundo!');
+                    alert('Se incrusta un boton dentro de la gina y se llama a una funcion usando javascript');
                 }
             }
         </script>
     </head>
     <body>  
         <section>
-            <span id="alertar">Click</span>
+            <button type="button" id="alertar">Click</button>
         </section>
     </body>
 </html>
