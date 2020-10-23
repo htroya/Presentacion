@@ -84,7 +84,7 @@ A continuación se muestran links para distintas páginas web.
 
 3.Se llama a una pagina almacenada en un servidor Oracle Cloud(**producto totalmente gratuito**) que usa Oracle Autonomus Transaccion, aplicación creada con oracle Apex:[Pagina Apex](https://jytaoxmtcsm8dwl-db202008032109.adb.us-ashburn-1.oraclecloudapps.com/ords/r/stp/sistema-erp/empresas?session=12066241147506)  para ingresar en esta página use el usuario **STP**  con clave **Productos42@**  esto es un sistema transaccional creado con el framework Oracle Apex.
 
-4.Otra página web de ejemplo [pagina 4 de ejemplo](https://htroya.github.io/Presentacion/pagina_html_3.html)
+4.Otra página web de ejemplo [pagina 4 de ejemplo](https://htroya.github.io/Presentacion/pagina_html_3.html).
 
 
 Fin..
