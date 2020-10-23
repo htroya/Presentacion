@@ -1,4 +1,4 @@
-### Páginas Web 
+# Páginas Web 
 
 Las **páginas web estáticas** son muy simples. Está escrito en lenguajes como HTML, JavaScript, CSS, etc. Para páginas web estáticas, cuando un servidor recibe una solicitud para una página web, el servidor envía la respuesta al cliente sin realizar ningún proceso adicional. Y estas páginas web se ven a través de un navegador web. En las páginas web estáticas, las páginas seguirán siendo las mismas hasta que alguien las cambie manualmente.
 
@@ -10,15 +10,15 @@ El tema de esta actividad experimental es la creación de páginas web a través
 
 En GitHub se puden seleccionar temas pra la presentación de la página web , en esta página se esta usando el tema MINIMAL [Tema minimal](https://github.com/htroya/Presentacion/settings/pages/themes?select=minimal&source=main&source_dir=%2F)
 
-# Markdown
+### Markdown
 GitHub utiliza "Markdown" que es una sintaxis ligera y fácil de usar para diseñar la página web 
 
 ```markdown
 Para poner cabeceras se utiliza esta sintaxis:
 
-# Cabecera 1 que es equivalente a la etiqueta html <H1> Título principal </ h1>
-## Cabecera 2 que es equivalente a la etiqueta html <H2> Título principal </ h2>
-### Cabecera 3 que es equivalente a la etiqueta html <H3> Título principal </ h3>
+# Cabecera 1 que es equivalente a la etiqueta html <H3> Título principal </ H3>
+## Cabecera 2 que es equivalente a la etiqueta html <H2> Título principal </ H2>
+### Cabecera 3 que es equivalente a la etiqueta html <H1> Título principal </ H1>
 
 - listas
 
