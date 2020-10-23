@@ -1,40 +1,36 @@
-# Páginas Web Estaticas
+## Páginas Web Estaticas
 
-You can use the [editor on GitHub](https://github.com/htroya/Presentacion/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+En GitHub se puden seleccionar temas pra la presentación de la página web , en esta página se esta usando el tema MINIMAL [Tema minimal](https://github.com/htroya/Presentacion/settings/pages/themes?select=minimal&source=main&source_dir=%2F)
 
 ### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+GitHub utiliza "Markdown", que es una sintaxis ligera y fácil de usar para diseñar la página web 
 
 ```markdown
-Syntax highlighted code block
+Para poner cabeceras se utiliza esta sintaxis:
 
-# Header 1
-## Header 2
-### Header 3
+# Cabecera 1 que es equivalente a la etiqueta html <H1> Título principal </ h1>
+## Cabecera 2 que es equivalente a la etiqueta html <H2> Título principal </ h2>
+### Cabecera 3 que es equivalente a la etiqueta html <H3> Título principal </ h3>
 
-- Bulleted
-- List
+- listas
 
-1. Numbered
-2. List
+1. Listas con numeros
 
-**Bold** and _Italic_ and `Code` text
+**Negrilla** , _Italica_ y `codigo` 
+
+Para poner links se utiliza el siguinete formato 
 
 [Link](url) and ![Image](src)
-```
+para crear un area resltada se debe usar el el simbolo:
 
-```markdown
-  test
+ ```  
+ y se cierra con el mismo simbolo 
+ ``` 
+ 
 ```
+`  alert('hola');
+`
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/htroya/Presentacion/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
