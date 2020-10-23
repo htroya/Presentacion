@@ -76,10 +76,11 @@ El código incrustado es:
 </html>
 
 ## HTML
-A continuación se muestran tres link para distintas páginas web creadas solo con HTML.
+A continuación se muestran links para distintas páginas web.
 
 1. Se llama a una pagina web usando html puro:
-2. Se llama a una pagina almacenada en un servidor Oracle Cloud que usa Oracle Autonomus Transaccion, aplicación creada con oracle Apex:
+2. Se llama a una pagina almacenada en un servidor Oracle Cloud que usa Oracle Autonomus Transaccion, aplicación creada con oracle Apex:[Pagina Apex](https://jytaoxmtcsm8dwl-db202008032109.adb.us-ashburn-1.oraclecloudapps.com/ords/r/stp/sistema-erp/login?session=12066241147506)  para ingresar en esta página use el usuario STP  con clave Productos42@  esto es un sistema transaccional creado con el framework Oracle Apex.
+
 
 Fin.
 
