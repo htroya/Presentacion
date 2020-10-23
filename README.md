@@ -39,7 +39,7 @@ Aqui un ejemplo incrustando codigo HTML:
 <button type="button">Click!</button>
 
 ## HTML
-A continuación se muestran tres link para distintas páginas web creadas solo con HTML
+A continuación se muestran tres link para distintas páginas web creadas solo con HTML.
 
 
 
