@@ -88,7 +88,7 @@ A continuación se muestran links para distintas páginas web.
 
 ## Conclusiones
 
-Fin.
+Fin
 
 
 
