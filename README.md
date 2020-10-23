@@ -35,7 +35,7 @@ para poner codigo html puro se debe encerrarlo entre una comilla(izquierda)
 ```
 
 Aqui un ejemplo incrustando codigo HTML:
-`<button type="button">Click Me!</button>`
+`<button type="button">Click!</button>`
 
 ## HTML
 A continuación se muestran tres link para distintas páginas web creadas solo con HTML
