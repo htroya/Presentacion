@@ -4,7 +4,7 @@ Las **páginas web estáticas** son muy simples. Está escrito en lenguajes como
 
 Las páginas **web dinámicas** están escritas en lenguajes como CGI, AJAX, ASP, ASP.NET, etc. En las páginas web dinámicas, el contenido de las páginas es diferente para los diferentes visitantes. Se tarda más en cargar que la página web estática. Se utilizan páginas web dinámicas donde la información se cambia con frecuencia, por ejemplo, precios de acciones, información meteorológica, etc.
 
-El tema de esta actividad experimental es la creación de páginas web a través del servicio de GitHubPages, para esto aplicamos dos enfoques, el primero es usar el mismo servicio Markdown de GitHub [Que es markwon ?](https://github.com/ricval/Documentacion/blob/master/Guias/GitHub/mastering-markdown.md#:~:text=Markdown%20es%20un%20lenguaje%20de,escribir%20en%20la%20plataforma%20GitHub) y el segundo es la creación de páginas con lenguaje HTML puro
+El tema de esta actividad experimental es la creación de páginas web a través del servicio de GitHubPages, para esto aplicaré dos enfoques, el primero es usar el mismo servicio Markdown de GitHub [Que es markwon ?](https://github.com/ricval/Documentacion/blob/master/Guias/GitHub/mastering-markdown.md#:~:text=Markdown%20es%20un%20lenguaje%20de,escribir%20en%20la%20plataforma%20GitHub) donde incrustare html directo utilizando una pequeña funcion en javascriot para enviar un mensaje, y el segundo es la creación de una pequeña página web usando html.
 
 ## Markdown
 
