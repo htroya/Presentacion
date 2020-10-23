@@ -4,11 +4,11 @@ Las **páginas web estáticas** son muy simples. Está escrito en lenguajes como
 
 Las páginas **web dinámicas** están escritas en lenguajes como CGI, AJAX, ASP, ASP.NET, etc. En las páginas web dinámicas, el contenido de las páginas es diferente para los diferentes visitantes. Se tarda más en cargar que la página web estática. Se utilizan páginas web dinámicas donde la información se cambia con frecuencia, por ejemplo, precios de acciones, información meteorológica, etc.
 
-El tema de esta actividad experimental es la creación de páginas web a través del servicio de GitHubPages, para esto aplicaré dos enfoques, el primero es usar el mismo servicio Markdown de GitHub [Que es markwon ?](https://github.com/ricval/Documentacion/blob/master/Guias/GitHub/mastering-markdown.md#:~:text=Markdown%20es%20un%20lenguaje%20de,escribir%20en%20la%20plataforma%20GitHub) donde incrustare html directo utilizando una pequeña funcion en javascriot para enviar un mensaje, y el segundo es la creación de una pequeña página web usando html.
+El tema de esta actividad experimental es la creación de páginas web a través del servicio de GitHubPages, para esto aplicaré dos enfoques, el primero es usar el mismo servicio Markdown de GitHub [Que es markwon ?](https://github.com/ricval/Documentacion/blob/master/Guias/GitHub/mastering-markdown.md#:~:text=Markdown%20es%20un%20lenguaje%20de,escribir%20en%20la%20plataforma%20GitHub) donde incrustare html directo utilizando una pequeña función en javascript para enviar un mensaje, y el segundo es la creación de una pequeña página web usando html.
 
 ## Markdown
 
-En GitHub se puden seleccionar temas pra la presentación de la página web , en esta página se esta usando el tema MINIMAL [Ver tema minimal](https://github.com/htroya/Presentacion/settings/pages/themes?select=minimal&source=main&source_dir=%2F)
+En GitHub se pueden seleccionar temas pra la presentación de la página web , en esta página se esta usando el tema MINIMAL [Ver tema minimal](https://github.com/htroya/Presentacion/settings/pages/themes?select=minimal&source=main&source_dir=%2F)
 
 ### Markdown
 GitHub utiliza "Markdown" que es una sintaxis ligera y fácil de usar para diseñar la página web 
@@ -22,19 +22,19 @@ Para poner cabeceras se utiliza esta sintaxis:
 
 - listas
 
-1. Listas con numeros
+1. Listas con números
 
 **Negrilla** , _Italica_ y `codigo` 
 
-Para poner links se utiliza el siguinete formato 
+Para poner links se utiliza el siguiente formato 
 
 [Link](url) and ![Image](src)
-para crear un area resaltada se debe poner tres comillas(izquierdas) seguidas , luego ponemos cualquier texto y cerramos con las mismas comillas(izquierdas) seguidas.
+para crear un área resaltada se debe poner tres comillas(izquierdas) seguidas , luego ponemos cualquier texto y cerramos con las mismas comillas(izquierdas) seguidas.
 
-para poner codigo html puro se lo debe digitar directamente pero debe haber una linea en blanco que rodee al HTML tanto arriba como abajo.
+para poner codigo html puro se lo debe digitar directamente pero debe haber una línea en blanco que rodee al HTML tanto arriba como abajo.
 ```
 
-Aqui un ejemplo incrustando codigo HTML:
+Aquí un ejemplo incrustando código HTML:
 
 El código incrustado es:
 ```
@@ -84,10 +84,15 @@ A continuación se muestran links para distintas páginas web.
 
 3.Se llama a una pagina almacenada en un servidor Oracle Cloud(**producto totalmente gratuito**) que usa Oracle Autonomus Transaccion, aplicación creada con oracle Apex:[Pagina Apex](https://jytaoxmtcsm8dwl-db202008032109.adb.us-ashburn-1.oraclecloudapps.com/ords/r/stp/sistema-erp/empresas?session=12066241147506)  para ingresar en esta página use el usuario **STP**  con clave **Productos42@**  esto es un sistema transaccional creado con el framework Oracle Apex.
 
-4.Otra página web de ejemplo [pagina 4 de ejemplo](https://htroya.github.io/Presentacion/pagina_html_3.html).
 
 ## Conclusiones
-La pagina principal se muestra directamente
+1.La página principal se muestra directamente usando Markdown de GitHUb en esta página se usa funcionalidades propias del Markdown , así como también se incrusta html puro para crear un botón, este invoca a una pequeña función en javscript para que emita un mensaje en pantalla.
+
+2.La pagina web (1) de ejemplo esta almacenada en el mismo repositorio y se llama pagina_html esta contiene etiquetas básicas del html
+
+3.La página web(2) de ejemplo usa una hoja de estilos que esta almacenada en el mismo repositorio , en esta página web se incluyeron tanto imágenes como video así como etiquetas básicas del html, esta página invoca a su vez a otras dos páginas web mediante la etiqueta <a href
+
+4.La página web(3) de ejemplo invoca un sitio externo, este sitio esta creado con oracle apex por lo que usa base de datos oracle 19c, y está alojado en la nube de Oracle, cabe destacar que este servicio de oracle permite mantener sitios transaccionales de manera gratuita.
 
 Fin.
 
