@@ -56,7 +56,9 @@ Aqui un ejemplo incrustando codigo HTML:
 
 ## HTML
 A continuación se muestran tres link para distintas páginas web creadas solo con HTML.
-Se va a llamar a una pagina web
+
+Se llama a una pagina web usando html puro:
+Se llama a una pagina almacenada en un servidor Oracle Cloud que usa Oracle Autonomus Transaccion, aplicación creada con oracle Apex
 
 
 
