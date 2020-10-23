@@ -87,7 +87,7 @@ A continuación se muestran links para distintas páginas web.
 4.Otra página web de ejemplo [pagina 4 de ejemplo](https://htroya.github.io/Presentacion/pagina_html_3.html).
 
 ## Conclusiones
-La pagina web 
+La pagina web principal se muestra
 
 Fin.
 
