@@ -31,11 +31,12 @@ Para poner links se utiliza el siguinete formato
 [Link](url) and ![Image](src)
 para crear un area resaltada se debe poner tres comillas(izquierdas) seguidas , luego ponemos cualquier texto y cerramos con las mismas comillas(izquierdas) seguidas.
 
-para poner codigo html puro se debe encerrarlo entre una comilla(izquierda)
+para poner codigo html puro se lo debe digitar directamente pero debe haber una linea en blanco que separe el HTML 
 ```
 
 Aqui un ejemplo incrustando codigo HTML:
-`<button type="button">Click!</button>`
+
+<button type="button">Click!</button>
 
 ## HTML
 A continuación se muestran tres link para distintas páginas web creadas solo con HTML
