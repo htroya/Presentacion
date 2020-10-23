@@ -70,7 +70,7 @@ El código incrustado es:
     </head>
     <body>  
         <section>
-            <button type="button" id="alertar">Click</button>
+            <button type="button" id="alertar" title="click en el boton incrustado">Click</button>
         </section>
     </body>
 </html>
