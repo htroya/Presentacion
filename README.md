@@ -94,7 +94,7 @@ A continuación se muestran links para distintas páginas web.
 
 4.La página [web(3)](https://jytaoxmtcsm8dwl-db202008032109.adb.us-ashburn-1.oraclecloudapps.com/ords/r/stp/sistema-erp/empresas?session=12066241147506) de ejemplo invoca un sitio externo, este sitio esta creado con oracle apex por lo que usa base de datos oracle 19c, y está alojado en la nube de Oracle, cabe destacar que este servicio de oracle permite mantener sitios transaccionales de manera gratuita.
 
-Fin.
+Fin
 
 
 
