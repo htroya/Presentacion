@@ -36,6 +36,27 @@ para poner codigo html puro se lo debe digitar directamente pero debe haber una 
 
 Aqui un ejemplo incrustando codigo HTML:
 
+El código incrustado es:
+```
+<html>
+    <head>        
+        <title>Incluyendo HMTL dentro de la pagina GitHUB usando Markdown</title>
+        <script type="text/javascript">
+            window.onload = function() {
+                document.getElementById('alertar').onclick = function () {
+                    alert('Se incrusta un boton dentro de la gina y se llama a una funcion usando javascript');
+                }
+            }
+        </script>
+    </head>
+    <body>  
+        <section>
+            <button type="button" id="alertar">Click</button>
+        </section>
+    </body>
+</html>
+```
+
 <html>
     <head>        
         <title>Incluyendo HMTL dentro de la pagina GitHUB usando Markdown</title>
@@ -58,7 +79,6 @@ Aqui un ejemplo incrustando codigo HTML:
 A continuación se muestran tres link para distintas páginas web creadas solo con HTML.
 
 1. Se llama a una pagina web usando html puro:
-
 2. Se llama a una pagina almacenada en un servidor Oracle Cloud que usa Oracle Autonomus Transaccion, aplicación creada con oracle Apex:
 
 
