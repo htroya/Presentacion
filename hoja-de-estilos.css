@@ -1,0 +1,24 @@
+.titulo_web{
+  text-align: center;
+  background-color: darkgrey;
+}
+
+.imagen{
+  max-width: 46rem;
+}
+
+.banner_pu{
+  position: relative;
+  bottom: 19.4rem;
+  left: 46.5rem;
+}
+
+.banner_video{
+  position:relative;
+  width: 10rem;
+}
+
+.pie{
+  position: relative;
+    bottom: 21rem;
+}
